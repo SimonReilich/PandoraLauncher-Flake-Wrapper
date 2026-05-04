@@ -1,14 +1,14 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1_2)">
-<circle cx="32" cy="32" r="32" fill="#202020"/>
-<path d="M9.25 26.75H18.875L37.25 9.25H26.75L9.25 26.75Z" stroke="#F2F0E3" stroke-width="2" stroke-linejoin="round"/>
-<path d="M9.25 26.75V37.25L26.75 54.75V45.125L9.25 26.75Z" stroke="#F2F0E3" stroke-width="2" stroke-linejoin="round"/>
-<path d="M9.25 26.75H18.875L32 39.875L26.75 45.125L9.25 26.75Z" stroke="#F2F0E3" stroke-width="2" stroke-linejoin="round"/>
-<path d="M26.75 54.75H37.25L54.75 37.25H45.125L26.75 54.75Z" stroke="#F2F0E3" stroke-width="2" stroke-linejoin="round"/>
-<path d="M54.75 37.25V26.75L37.25 9.25V18.875L54.75 37.25Z" stroke="#F2F0E3" stroke-width="2" stroke-linejoin="round"/>
-<path d="M37.25 9.25V18.875L24.125 32L18.875 26.75L37.25 9.25Z" stroke="#F2F0E3" stroke-width="2" stroke-linejoin="round"/>
-<path d="M26.75 54.75V45.125L39.875 32L45.125 37.25L26.75 54.75Z" stroke="#F2F0E3" stroke-width="2" stroke-linejoin="round"/>
-<path d="M54.75 37.25H45.125L32 24.125L37.25 18.875L54.75 37.25Z" stroke="#F2F0E3" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="32" cy="32" r="32" fill="#0A0A0A"/>
+<path d="M9.25 26.75H18.875L37.25 9.25H26.75L9.25 26.75Z" stroke="#FAFAFA" stroke-width="2" stroke-linejoin="round"/>
+<path d="M9.25 26.75V37.25L26.75 54.75V45.125L9.25 26.75Z" stroke="#FAFAFA" stroke-width="2" stroke-linejoin="round"/>
+<path d="M9.25 26.75H18.875L32 39.875L26.75 45.125L9.25 26.75Z" stroke="#FAFAFA" stroke-width="2" stroke-linejoin="round"/>
+<path d="M26.75 54.75H37.25L54.75 37.25H45.125L26.75 54.75Z" stroke="#FAFAFA" stroke-width="2" stroke-linejoin="round"/>
+<path d="M54.75 37.25V26.75L37.25 9.25V18.875L54.75 37.25Z" stroke="#FAFAFA" stroke-width="2" stroke-linejoin="round"/>
+<path d="M37.25 9.25V18.875L24.125 32L18.875 26.75L37.25 9.25Z" stroke="#FAFAFA" stroke-width="2" stroke-linejoin="round"/>
+<path d="M26.75 54.75V45.125L39.875 32L45.125 37.25L26.75 54.75Z" stroke="#FAFAFA" stroke-width="2" stroke-linejoin="round"/>
+<path d="M54.75 37.25H45.125L32 24.125L37.25 18.875L54.75 37.25Z" stroke="#FAFAFA" stroke-width="2" stroke-linejoin="round"/>
 </g>
 <defs>
 <clipPath id="clip0_1_2">
