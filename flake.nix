@@ -12,7 +12,7 @@
         system = "x86_64-linux";
       };
       releaseVersion = "5.3.1";
-      releaseSha256 = "sha256-b+gBI9mleMK1JsYxAFFwmZc3z9Rxm8QjEI6pW+zifZw=";
+      releaseSha256 = "sha256-aSnJ5X0ZOkGTGxKcglL4d5jrMFTNMZl3Pg7obGGL8GY=";
 
       minecraftLibs =
         pkgs: with pkgs; [
