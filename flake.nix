@@ -11,8 +11,8 @@
       pkgs = import nixpkgs {
         system = "x86_64-linux";
       };
-      releaseVersion = "5.3.1";
-      releaseSha256 = "sha256-aSnJ5X0ZOkGTGxKcglL4d5jrMFTNMZl3Pg7obGGL8GY=";
+      releaseVersion = "5.5.3";
+      releaseSha256 = "sha256-LfJ59y6Qe83VPbxPyZL+rkIRFOzmvEknLOO9BEcN4p0=";
 
       minecraftLibs =
         pkgs: with pkgs; [
@@ -76,19 +76,19 @@
         };
         dontUnpack = true;
 
-        buildInputs = (
-          with pkgs;
-          [
-            makeWrapper
-            autoPatchelfHook
+        nativeBuildInputs = with pkgs; [
+          makeWrapper
+          autoPatchelfHook
+        ];
 
-            libgcc
-            openssl
-            libxkbcommon
-            libxcb
-            libseccomp
-          ]
-        );
+        buildInputs = with pkgs; [
+          libgcc
+          openssl
+          libxkbcommon
+          libxcb
+          libseccomp
+          udev
+        ];
         installPhase = ''
           runHook preInstall
 
